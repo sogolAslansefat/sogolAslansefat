@@ -1,6 +1,24 @@
 # 🎓 University Course Projects
 
 Welcome to my repository of university course projects! Here, you'll find a collection of the projects I've completed during my academic journey. Each project demonstrates the skills and knowledge I've acquired in various subjects.
+## 🛠️ **Skills**
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### Other Skills
+- **Data Analysis**
+- **Machine Learning**
+- **Web Development**
+- **Database Management**
 
 ---
 
