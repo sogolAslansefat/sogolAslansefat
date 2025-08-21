@@ -85,7 +85,7 @@ I’m open to **research-friendly** and **education-focused** collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-lightgrey?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sogol-aslansefat-b10353323/)
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-lightgrey?logo=github&logoColor=black)](https://github.com/sogolAslansefat/sogolAslansefat/issues)
-[![Email](https://img.shields.io/badge/Email-sogolaslansefat1%40gmail.com-lightgrey?logo=gmail&logoColor=black)](mailto:sogol.aslansefatt@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sogol.aslansefatt%40gmail.com-lightgrey?logo=gmail&logoColor=black)](mailto:sogol.aslansefatt@gmail.com)
 
 ---
 
