@@ -75,8 +75,7 @@
 
 ## 🤝 Collaborations
 
-I’m open to **research-friendly** and **education-focused** collaborations—especially around **quantum hardware/algorithms**, **RF/mm-Wave**, and **DSP/FPGA**.  
-Small PRs (typos, clarity, reproducibility) are always welcome.
+I’m open to **research-friendly** and **education-focused** collaborations.
 
 > If a repository **doesn’t include a license**, please assume **All Rights Reserved** and contact me before reuse.
 
