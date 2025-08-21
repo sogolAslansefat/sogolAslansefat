@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm **Sogol Aslan Sefat**
+# Hi, I'm **Sogol**
 
 **Electrical Engineering Undergraduate · University of Tehran**
-
-Digital Systems • Electronics • Microwaves • Signals & DSP
 
 [![Followers](https://img.shields.io/github/followers/sogolAslansefat?logo=github\&style=for-the-badge)](https://github.com/sogolAslansefat?tab=followers)
 [![Stars](https://img.shields.io/github/stars/sogolAslansefat?affiliations=OWNER\&style=for-the-badge)](https://github.com/sogolAslansefat?tab=repositories)
