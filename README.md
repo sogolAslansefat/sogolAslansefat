@@ -2,58 +2,19 @@
 
 # Hi, I'm **Sogol**
 
-**B.Sc. Electrical Engineering (Fields & Waves) · University of Tehran**
+**B.Sc. Electrical Engineering · University of Tehran**
 
 [![Followers](https://img.shields.io/github/followers/sogolAslansefat?logo=github&style=for-the-badge)](https://github.com/sogolAslansefat?tab=followers)
 [![Stars](https://img.shields.io/github/stars/sogolAslansefat?affiliations=OWNER&style=for-the-badge)](https://github.com/sogolAslansefat?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=sogolAslansefat&style=for-the-badge)](https://github.com/sogolAslansefat)
 
-**Quantum Computing · RF/mm-Wave · Integrated/Embedded · DSP**
 </div>
 
----
+--- 
 
-## 🚀 Snapshot
-
-- EE undergrad with a strong tilt toward **quantum computing hardware**, **superconducting & RF/mm-Wave circuits**, and **signal processing**.  
-- I learn by building and writing: clear notes, reproducible scripts, and minimal examples.  
-- **Thesis (B.Sc.)**: *Foundational Physics of Quantum Computing Hardware* (Supervisor: Prof. Mahmood Shahabadi).  
-- **Now**  
-  - Research Assistant (remote), **Loyola University Maryland** — quantum classifiers (**QSVM**, **QNN**).  
-  - Teaching Assistant, **Quantum Optics** (UT) — material prep + co-editing a translation of *Getting Started in Quantum Optics* (Ray LaPierre).  
-
----
-
-## 🧪 Publication
-
-- **The superiority of innovative spiral–interdigital microelectrode pattern…**  
-  *Scientific Reports*, Aug 2024.  
-  Faegheh Bourbour, Mohammad Abdolahad, Fatemeh Hosseini Alast, **Sogol Aslan Sefat**.  
-  DOI: **10.1038/s41598-024-68297-8** · [Read online](https://www.nature.com/articles/s41598-024-68297-8)
-
----
-
-## 🎓 Education & Highlights
-
-- **University of Tehran** — B.Sc. in Electrical Engineering *(Fields & Waves Telecommunications)*, **2019–Present**  
-  GPA: **16.03/20 (~3.3/4.0)**  
-- **Honors**: Top 1% in Iran’s national entrance exam (≈260k participants), Govt. scholarship (2019), Ranked 2nd in School of Statistics/Math/CS (2020), Top Hardworking Student (2020).
-
----
-
-## 👩🏻‍🏫 Teaching & Research
-
-- **Teaching Assistant**  
-  - *Quantum Optics* (Summer 2024–Present) — material organization; co-editing book translation  
-  - *Modern Physics* (2023–2024) — problem-solving sessions  
-  - *Physics II* (Fall 2023) — exercises & quizzes  
-  - *Basic Programming* (Fall 2024) — concepts & support
-
-- **Research Assistant**  
-  - Loyola University Maryland (Jun 2024–Present) — **QSVM/QNN** for supervised learning  
-  - University of Tehran — with **Prof. M. Shahabadi**: fundamentals of **quantum computing hardware**  
-  - University of Tehran — with **Dr. Z. Shaterzadeh Yazdi**: **diamond-based qubits** & **quantum sensing**  
-  - **NBEL, UT** — with **Prof. M. Abdolahad**: nano-bio devices, tunneling in bio-nanoantennae, **biosensor** design/fabrication
+## 👋 About Me
+* **B.Sc. Electrical Engineering (Fields & Waves Telecommunications), University of Tehran**.
+* I learn by building: these repositories collect **assignments, lab reports, notes, and small reproducible projects**.
 
 ---
 
@@ -101,20 +62,6 @@
 
 ---
 
-## 🧩 Selected Course Projects
-
-- **RISC-V CPU** — single-cycle, multi-cycle, and pipelined implementations *(Computer Architecture, 2024)*  
-- **FPGA Systems** — waveform generator & HW acceleration on SoC, RTL + testbenches *(Digital Logic Lab, 2024)*  
-- **Stub Matching & Bandwidth** — single-stub matching for complex loads; freq-response trade-offs *(Fields & Waves, 2024)*  
-- **LHTL vs. RHTL** — HFSS simulations for narrowband filter behavior *(Microwave-1, 2024)*  
-- **DSP Systems** — Z-transform/DTFT experiments: compression/expansion, interpolation, audio processing *(DSP, 2024)*  
-- **License-Plate OCR (EN/FA)** — grayscale + Otsu + correlation on video frames *(Signals & Systems, 2024)*  
-- **Schrödinger Solvers** — HO & particle-in-a-box via MATLAB *(Modern Physics, 2023)*  
-
-> Many projects are coursework; some will be cleaned and open-sourced as time allows.
-
----
-
 ## 📈 GitHub Analytics
 
 > Auto-updated cards.
@@ -137,7 +84,6 @@ Small PRs (typos, clarity, reproducibility) are always welcome.
 
 ## 📫 Contact
 
-- **Email**: sogolaslansefat1@gmail.com · aslansefat@ut.ac.ir  
 - **LinkedIn**: [/in/sogol-aslansefat-b10353323](https://www.linkedin.com/in/sogol-aslansefat-b10353323/)  
 - Or simply **open an issue** here: [`sogolAslansefat/sogolAslansefat`](https://github.com/sogolAslansefat/sogolAslansefat/issues)
 
