@@ -1,138 +1,100 @@
-# 🎓 University Course Projects
+<div align="center">
 
-Welcome to my repository of university course projects! Here, you'll find a collection of the projects I've completed during my academic journey. Each project demonstrates the skills and knowledge I've acquired in various subjects.
-## 🛠️ **Skills**
+# Hi, I'm **Sogol Aslan Sefat**
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+**Electrical Engineering Undergraduate · University of Tehran**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+Digital Systems • Electronics • Microwaves • Signals & DSP
 
-### Other Skills
-- **Data Analysis**
-- **Machine Learning**
-- **Web Development**
-- **Database Management**
+[![Followers](https://img.shields.io/github/followers/sogolAslansefat?logo=github\&style=for-the-badge)](https://github.com/sogolAslansefat?tab=followers)
+[![Stars](https://img.shields.io/github/stars/sogolAslansefat?affiliations=OWNER\&style=for-the-badge)](https://github.com/sogolAslansefat?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=sogolAslansefat\&style=for-the-badge)](https://github.com/sogolAslansefat)
+
+</div>
 
 ---
 
-## 📁 Table of Contents
+## 👋 About Me
 
-1. [Project 1: Data Structures and Algorithms](#project-1-data-structures-and-algorithms)
-2. [Project 2: Web Development](#project-2-web-development)
-3. [Project 3: Machine Learning](#project-3-machine-learning)
-4. [Project 4: Database Systems](#project-4-database-systems)
-5. [Project 5: Operating Systems](#project-5-operating-systems)
-
----
-
-## 📝 Project 1: Data Structures and Algorithms
-
-**Course**: CS101 - Data Structures and Algorithms  
-**Description**: This project involved implementing various data structures (e.g., linked lists, stacks, queues) and algorithms (e.g., sorting, searching) in [programming language]. The project highlights include the creation of efficient algorithms for common computational problems.
-
-**Technologies Used**:
-- Programming Language: [Python, C++, etc.]
-- Tools: [IDE or text editor]
-
-**Key Features**:
-- Implementation of [specific data structures]
-- Algorithm optimization techniques
-- Performance analysis
-
-[**View Project**](https://github.com/your-username/repository-link)
+* I’m an **Electrical Engineering** student with broad interests across **computer architecture**, **digital logic**, **electronics**, **microwave engineering**, and **signal processing**.
+* I learn by building: coursework repositories below collect **assignments, lab reports, notes, and small projects**.
+* Long‑term goals: stronger foundations in **DSP**, **RF/microwave**, and **embedded systems**.
+* Open to collaboration on **education-focused** or **research-friendly** projects.
 
 ---
 
-## 🌐 Project 2: Web Development
+## 📚 Coursework & Repositories
 
-**Course**: CS102 - Web Development  
-**Description**: Developed a full-stack web application using [technologies]. The project includes user authentication, CRUD operations, and responsive design.
+> A quick tour of my academic repositories. Repos marked *planned* are scaffolds that will be populated as I consolidate notes and code.
 
-**Technologies Used**:
-- Frontend: [HTML, CSS, JavaScript, React, etc.]
-- Backend: [Node.js, Django, Flask, etc.]
-- Database: [MySQL, PostgreSQL, MongoDB, etc.]
+| Repository                                                                                  | Focus (what you’ll find)                                                                | Status    |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------- |
+| [`Computer-Architecture`](https://github.com/sogolAslansefat/Computer-Architecture)         | CPU datapath & control, pipelining basics, memory hierarchy notes, simple ISA exercises | active    |
+| [`Digital-Logic-Design`](https://github.com/sogolAslansefat/Digital-Logic-Design)           | Combinational & sequential circuits, K‑maps, FSMs, timing, sample designs               | active    |
+| [`Digital-Logic-Laboratory`](https://github.com/sogolAslansefat/Digital-Logic-Laboratory)   | Lab reports, testbenches, schematics/HDL snippets, measurement notes                    | active    |
+| [`Digital-Signal-Processing`](https://github.com/sogolAslansefat/Digital-Signal-Processing) | Discrete-time signals, FIR/IIR design, sampling/aliasing demos, spectral analysis       | *planned* |
+| [`Electrical-Machines`](https://github.com/sogolAslansefat/Electrical-Machines)             | Transformers, DC/AC machines, equivalent circuits, performance characteristics          | active    |
+| [`Electronic-1`](https://github.com/sogolAslansefat/Electronic-1)                           | Diodes, BJTs, biasing, small‑signal models, amplifier building blocks                   | active    |
+| [`Electronic-2`](https://github.com/sogolAslansefat/Electronic-2)                           | MOSFETs, frequency response, op‑amp apps, feedback and stability notes                  | active    |
+| [`Fields-and-Waves`](https://github.com/sogolAslansefat/Fields-and-Waves)                   | Maxwell’s equations, transmission lines, boundary conditions, wave propagation          | active    |
+| [`General-Workshop`](https://github.com/sogolAslansefat/General-Workshop)                   | Practical skills: soldering, PCB basics, instruments & measurement tips                 | active    |
+| [`Microwave-1`](https://github.com/sogolAslansefat/Microwave-1)                             | RF fundamentals, S‑parameters, matching networks, microstrip/waveguides                 | active    |
+| [`Modern-Physics`](https://github.com/sogolAslansefat/Modern-Physics)                       | Quantum/relativity essentials oriented to EE intuition and math                         | active    |
+| [`Nano-Bioelectronics`](https://github.com/sogolAslansefat/Nano-Bioelectronics)             | Nano/bio interfaces, sensing concepts, literature notes                                 | *planned* |
+| [`Signals-and-Systems`](https://github.com/sogolAslansefat/Signals-and-Systems)             | LTI systems, convolution, transforms, sampling; problem sets & notes                    | *planned* |
+| [`sogolAslansefat`](https://github.com/sogolAslansefat/sogolAslansefat)                     | **This profile repo** — the page you’re reading now                                     | active    |
 
-**Key Features**:
-- User authentication and authorization
-- RESTful API design
-- Responsive UI/UX
+<details>
+<summary><b>How to explore</b></summary>
 
-[**View Project**](https://github.com/your-username/repository-link)
+* Each repository usually contains a short README with context, and folders like `/notes`, `/labs`, `/assignments`, or `/code`.
+* I prioritize clarity over polish: expect concise notes, commented equations, and simple, reproducible scripts.
+* If you spot an error or have a suggestion, feel free to open an issue.
 
----
-
-## 🤖 Project 3: Machine Learning
-
-**Course**: CS103 - Machine Learning  
-**Description**: Implemented machine learning models to solve [specific problem, e.g., classification, regression]. This project includes data preprocessing, model training, and evaluation.
-
-**Technologies Used**:
-- Programming Language: [Python, R, etc.]
-- Libraries: [scikit-learn, TensorFlow, Keras, etc.]
-- Tools: [Jupyter Notebook, etc.]
-
-**Key Features**:
-- Data preprocessing techniques
-- Model selection and tuning
-- Performance metrics and evaluation
-
-[**View Project**](https://github.com/your-username/repository-link)
+</details>
 
 ---
 
-## 🗃️ Project 4: Database Systems
+## 🧰 Tech Toolbox
 
-**Course**: CS104 - Database Systems  
-**Description**: Designed and implemented a relational database system for [specific use case, e.g., an online bookstore, inventory management system]. The project focuses on database design, normalization, and SQL queries.
+<p>
+  <img src="https://skillicons.dev/icons?i=matlab,py,c,cpp,arduino,verilog,vscode,git,linux,latex,md" alt="Tech stack icons"/>
+</p>
 
-**Technologies Used**:
-- Database: [MySQL, PostgreSQL, etc.]
-- Tools: [phpMyAdmin, MySQL Workbench, etc.]
-
-**Key Features**:
-- ER diagram and schema design
-- SQL query optimization
-- Data integrity and normalization
-
-[**View Project**](https://github.com/your-username/repository-link)
+* **Core EE:** circuits, electronics, signals & systems, EM/fields, machines
+* **Computing & tools:** numerical computing, basic scripting, version control, technical writing in LaTeX & Markdown
 
 ---
 
-## 💻 Project 5: Operating Systems
+## 📈 GitHub Analytics
 
-**Course**: CS105 - Operating Systems  
-**Description**: Developed components of an operating system, such as a custom shell, process scheduler, and memory management module. This project showcases low-level programming and OS concepts.
+> These cards auto‑update and provide a quick snapshot.
 
-**Technologies Used**:
-- Programming Language: [C, C++, etc.]
-- Tools: [Unix/Linux environment, GCC compiler, etc.]
-
-**Key Features**:
-- Process scheduling algorithms
-- Memory management techniques
-- Shell implementation
-
-[**View Project**](https://github.com/your-username/repository-link)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api?username=sogolAslansefat&show_icons=true&hide_border=true" alt="GitHub stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogolAslansefat&layout=compact&hide_border=true" alt="Top languages" /></a>
+</p>
 
 ---
 
-## 📬 Contact
+## 🤝 Collaboration & Use
 
-If you'd like to discuss these projects or have any questions, feel free to reach out!
-
-**Your Name**  
-Email: [your-email@example.com](mailto:your-email@example.com)  
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
-GitHub: [@your-username](https://github.com/your-username)
+* I’m happy to **discuss coursework, compare approaches, or learn together**. PRs for small fixes (typos, clarity) are welcome.
+* If a repository **doesn’t include a license**, please assume the default is **All Rights Reserved** and contact me before reuse.
 
 ---
 
-Thank you for taking the time to explore my university course projects!
+## 📫 Contact
+
+* The simplest way is to **open an issue** on this profile repository: [`sogolAslansefat/sogolAslansefat`](https://github.com/sogolAslansefat/sogolAslansefat/issues).
+* If you prefer email or LinkedIn, feel free to add links here later.
+
+---
+
+> *“Strong fundamentals. Clear notes. Reproducible work.”*
+
+<div align="center">
+
+**Thanks for visiting — feel free to ⭐ repositories that helped you!**
+
+</div>
