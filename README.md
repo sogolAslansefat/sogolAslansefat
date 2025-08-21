@@ -83,8 +83,8 @@ I’m open to **research-friendly** and **education-focused** collaborations.
 
 ## 📫 Contact
 
-- **LinkedIn**: [/in/sogol-aslansefat-b10353323](https://www.linkedin.com/in/sogol-aslansefat-b10353323/)  
-- Or simply **open an issue** here: [`sogolAslansefat/sogolAslansefat`](https://github.com/sogolAslansefat/sogolAslansefat/issues)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [**LinkedIn**](https://www.linkedin.com/in/sogol-aslansefat-b10353323/)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> [**GitHub**](https://github.com/sogolAslansefat/sogolAslansefat/issues)  
 
 ---
 
